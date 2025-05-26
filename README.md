@@ -56,8 +56,8 @@ A full-stack e-commerce application for browsing, purchasing, and managing books
 
 ### Installation
 
-1. **Clone the frontend Repository**:
+1. **Clone the Repositories**:
    ```bash
-   git clone https://github.com/pmarcelacademy1/book-mern-frontend
-  git clone  https://github.com/pmarcelacademy1/book-mern-backend
+   git clone https://github.com/pmarcelacademy1/book-mern-frontend.git
+   git clone https://github.com/pmarcelacademy1/book-mern-backend.git
    cd bookstore-mern
